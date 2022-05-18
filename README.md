@@ -1,6 +1,7 @@
 [![MATLAB](https://github.com/pa5ca1/ci-configuration-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/pa5ca1/ci-configuration-examples/actions/workflows/ci.yml)
 
 
+
 # Continuous Integration (CI) configuration examples for MATLAB<sup>&reg;</sup>
 
 Are you interested in automating your testing with CI?
